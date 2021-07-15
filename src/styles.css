@@ -1,0 +1,27 @@
+.input {
+  border-radius: 5px;
+  border-color: transparent;
+  padding-left: 2.5rem;
+  padding-top: 2rem;
+  font-size: 1.5rem;
+  min-height: 80vh;
+  min-width: 80vh;
+  box-shadow: 3px 3px 6px 0px rgba(50, 50, 50, 0.75);
+}
+
+.markdown-area {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 2.5rem;
+}
+.result {
+  margin-left: 5rem;
+  font-size: 1.7rem;
+  min-height: 80vh;
+  min-width: 40vh;
+}
+blockquote {
+  border-left: 5px solid gray;
+  padding-left: 2rem;
+  font-style: italic;
+}
